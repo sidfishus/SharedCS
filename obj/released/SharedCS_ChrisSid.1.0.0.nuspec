@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SharedCS_ChrisSid</id>
+    <version>1.0.0</version>
+    <authors>sidfishus</authors>
+    <owners>sidfishus</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Shared / Miscellaneous C# and .NET Functionality</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\code\SharedCS\bin\released\netstandard2.0\SharedCS.dll" target="lib\netstandard2.0\SharedCS.dll" />
+  </files>
+</package>

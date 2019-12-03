@@ -1,0 +1,9 @@
+C:\code\SharedCS\bin\released\netstandard2.0\SharedCS.deps.json
+C:\code\SharedCS\bin\released\netstandard2.0\SharedCS.dll
+C:\code\SharedCS\bin\released\netstandard2.0\SharedCS.pdb
+C:\code\SharedCS\obj\released\netstandard2.0\SharedCS.csprojAssemblyReference.cache
+C:\code\SharedCS\obj\released\netstandard2.0\SharedCS.csproj.CoreCompileInputs.cache
+C:\code\SharedCS\obj\released\netstandard2.0\SharedCS.AssemblyInfoInputs.cache
+C:\code\SharedCS\obj\released\netstandard2.0\SharedCS.AssemblyInfo.cs
+C:\code\SharedCS\obj\released\netstandard2.0\SharedCS.dll
+C:\code\SharedCS\obj\released\netstandard2.0\SharedCS.pdb
