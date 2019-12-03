@@ -6,7 +6,7 @@
 
   <PropertyGroup>
     <PackageId>SharedCS_ChrisSid</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>sidfishus;</Authors>
     <PackageDescription>Shared / Miscellaneous C# and .NET Functionality</PackageDescription>
     <RepositoryUrl>https://github.com/sidfishus/SharedCS</RepositoryUrl>
