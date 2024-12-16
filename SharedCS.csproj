@@ -1,12 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>13</LangVersion>
+    <Nullable>disable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup>
     <PackageId>SharedCS_ChrisSid</PackageId>
-    <Version>1.0.1</Version>
+    <Version>9.0.1</Version>
     <Authors>sidfishus;</Authors>
     <PackageDescription>Shared / Miscellaneous C# and .NET Functionality</PackageDescription>
     <RepositoryUrl>https://github.com/sidfishus/SharedCS</RepositoryUrl>
